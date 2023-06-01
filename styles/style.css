@@ -130,6 +130,8 @@ body {
     height: auto;
     background-color: #fff;
     padding: 5% 0;
+    padding-top: 1.5cm
+    padding-bottom: 1cm
 }
 #doc2 {
     display: none;
