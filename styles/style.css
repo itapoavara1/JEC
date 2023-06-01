@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    padding-top: 1,5cm;
+    padding-bottom: 1,5cm
 }
 body {
     background-color: #1d1d1d;
