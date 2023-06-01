@@ -130,14 +130,18 @@ body {
     height: auto;
     background-color: #fff;
     padding: 5% 0;
-    margin-top: 1.5cm; /* Margem superior de 1,5 cm */
-    margin-bottom: 1.5cm; /* Margem inferior de 1,5 cm */
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm
 }
 #doc2 {
     display: none;
     flex-direction: column;
     background-color: #fff;
     padding: 5% 0;
-    margin-top: 1.5cm; /* Margem superior de 1,5 cm */
-    margin-bottom: 1.5cm; /* Margem inferior de 1,5 cm */
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm
 }
